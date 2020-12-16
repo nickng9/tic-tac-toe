@@ -1,3 +1,5 @@
+// Project: Live tic tac toe game (on a 4 by 4 board) played between two players
+// Purpose: Create a live playable game of tic tac toe with active stat trackers, using 2D array and employs top down functional structure.
 
 #include <iostream>
 using namespace std;
